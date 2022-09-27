@@ -12,8 +12,8 @@
 
 🍂There are two ways to "compile" all of this.
 
-🌸The "Official" Way (AKA How it was done in the Official Modpack by Me) ///
-🏵 And the "Dirty" Way (AKA an easier way, just messier in terms of code)
+- 🌸The "Official" Way (AKA How it was done in the Official Modpack by Me)
+- 🏵 And the "Dirty" Way (AKA an easier way, just messier in terms of code)
 
 ### 🍀What you will need:
 

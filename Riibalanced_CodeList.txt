@@ -1,0 +1,104 @@
+Item Damage Type Modifier by CLF78
+https://mariokartwii.com/showthread.php?tid=1638
+ /// Values ///
+Bob-Omb Explosion = 01
+Blue Shell Explosion = 09
+
+
+Disable Lakitu When Going Backwards by CLF78
+https://mariokartwii.com/showthread.php?tid=1804
+
+Disable Luma by CLF78
+https://mariokartwii.com/showthread.php?tid=1819
+
+No Background Blur by davidevgen
+https://mariokartwii.com/showthread.php?tid=485
+
+Brake Drifting/Fast Falling by MrBean35000vr
+No code atm
+
+Friend Room Race Count Modifier by MrBean35000vr
+https://mariokartwii.com/showthread.php?tid=1611
+  /// Values ///
+4 Races = 0003
+5 Races = 0004 (Riibalanced Default)
+
+Change Character/Vehicle In Between Races Online by MrBean35000vr
+https://mariokartwii.com/showthread.php?tid=1866
+
+Pretty Speedometer 2.0
+https://mariokartwii.com/showthread.php?tid=1730
+
+Automatic BRSAR Patching [Elias_]
+(PAL) [Elias_]
+C2091350 00000002
+3FE07FFF 63FFFFFF
+93FD0074 00000000
+
+(NTSC-U) [Elias_]
+C20912B0 00000002
+3FE07FFF 63FFFFFF
+93FD0074 00000000
+
+(NTSC-J)  [Elias_]
+C2091270 00000002
+3FE07FFF 63FFFFFF
+93FD0074 00000000
+
+(NTSC-K)  [Elias_]
+C20913B0 00000002
+3FE07FFF 63FFFFFF
+93FD0074 00000000
+
+Force Room CC by XeR
+https://mariokartwii.com/showthread.php?tid=109
+  /// Values ///
+CC = 2 (150cc)
+
+Increased Mega Mushroom FOV by TheLordScruffy
+https://mariokartwii.com/showthread.php?tid=1748
+
+Show everyone's time aafter race by Melg
+https://mariokartwii.com/showthread.php?tid=1609
+
+Unlock Everything by tZ
+https://mariokartwii.com/showthread.php?tid=1736
+
+No ESRB Screen by Diamond
+https://mariokartwii.com/showthread.php?tid=1618
+
+Blooper Ink Timer Modifier by Chippy
+https://mariokartwii.com/showthread.php?tid=1701
+  /// Values ///
+Time = 0x00A1 
+
+Use Intended Mii Stats by B_squo
+https://wiki.tockdom.com/wiki/Use_the_Intended_Mii_Stats
+
+Lightning & Thunder Cloud Shrunk Time Modifier by mdmwii
+https://mariokartwii.com/showthread.php?tid=1071
+  /// Values ///
+Time = 3803FFFD
+
+
+Thunder Cloud Strike Time Modifier by Supastarrio
+https://mariokartwii.com/showthread.php?tid=215
+ /// Values ///
+Time = 0152 & 0192
+
+Region Changer by Leseratte
+F6000002 80648066
+38A0FFFF 48000010
+3C608038 80636000
+14000010 38A03564
+1400007C 38C03564
+14005BD8 38E03564
+14005C2C 38E03564
+140060F0 38E03564
+14006144 38E03564
+14006A00 38800064
+14006A4C 38800064
+E0000000 80008000
+
+Remove the "3564" and "64" Replace with your Wiimmfi Region
+(Example,put 1023 at the place of 3564 and 23 at the place of 64)

@@ -8,17 +8,26 @@
 
 💫Why? ArcIntel did all the vehicle related modding. I was just doing code related stuff!
 
-## How to "Compile"
+## Ways to "Compile"
 
 🍂There are two ways to "compile" all of this.
 
 - 🌸The "Official" Way (AKA How it was done in the Official Modpack by Me)
 - 🏵 And the "Dirty" Way (AKA an easier way, just messier in terms of code)
 
-### 🍀What you will need:
+### 🍀What you will need (Official Way):
 
 - 🍁Common Sense
 - 🌼Wiimm's ISO Tools (WIT)
 - 🍃boot.dol file matching with your Game's Region
+- 🎡The Riivolution Homebrew App
 - 🌵Basic Knowledge of Riivolution/XML
 
+## 🎄How to compile the Source Code (Official Way)
+
+- 🎫Download WIT [here](https://wit.wiimm.de/download.html)
+- 🧨Download Riivolution [here](https://aerialx.github.io/rvlution.net/riivolution.zip)
+- 🎇Download the "ProXML" file included in this Repository
+
+
+Step 1

@@ -25,9 +25,21 @@
 
 ## 🎄How to compile the Source Code (Official Way)
 
-- 🎫Download WIT [here](https://wit.wiimm.de/download.html)
-- 🧨Download Riivolution [here](https://aerialx.github.io/rvlution.net/riivolution.zip)
-- 🎇Download the "ProXML" file included in this Repository
-
+- 🎫Download and Install WIT [here](https://wit.wiimm.de/download.html)
+- 🧨Download the Riivolution Homebrew App [here](https://aerialx.github.io/rvlution.net/riivolution.zip)
+- 🎇Download the "Riivolution" ZIP file included in this Repository
+- 🎉Download the [main.dol](https://avsys.xyz/wiimmfi.zip) corresponding to your Game's Region (Go into one of the 4 Region Folders and then in "Wiimmfi" move the main.dol file to "YOURMODNAME" on your SD
 
 Step 1
+- 🎆Extract the contents of the **Riivolution Homebrew App** in your Apps folder in your SD/USB
+- 🎭Extract the two folders that are inside the **Riivolution** ZIP file in your SD/USB's Root
+- ✨Go onto this [website](https://mariokartwii.com/gct/)
+- 🧧Paste your Cheat Code in "Paste your code here" and then Click on "Add Code" and then on "Download GCT" (GAME ID and Code Title can be named whatever you want)
+
+It should look like this 
+
+![image](https://user-images.githubusercontent.com/76232148/192621778-22e65c28-b1b2-4f07-a367-509bbb07bf95.png)
+
+❗ Add a SINGLE CHEAT CODE per GCT File! **If you want to have Multiple Cheat Codes loaded in your mod you need to:**
+- Remove the previous code you added to your GCT File
+- 

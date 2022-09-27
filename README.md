@@ -10,15 +10,19 @@
 
 🎎You can either load the codes from the "Riibalanced_CodeList" i left in the Repository download or load your own Codes like in this Guide.
 
+# How does this mod work?
+
+work in progress
+
+#### ❓How does the Official Way work?
+- 🔰 In the official Riibalanced Mod codes are loaded using the *main.dol* file. This is because if Cheaters try to load external Cheat Codes from Dolphin the game will lose every RiiBalanced feature, losing access to Wiimmfi and Riibalanced's Wiimmfi Region. (This is because in Riibalanced the Custom Region is loaded in the main.dol, not te StaticR.rel)
+
 ## Ways to "Compile"
 
 🍂There are two ways to "compile" all of this.
 
-- 🌸The "Official" Way (AKA How it was done in the Official Modpack by Me)
+- 🌸The "Official" Way (AKA How it was done in the Official Modpack by Me, Read the paragrah before this for more info)
 - 🏵 And the "Dirty" Way (AKA an easier way, just messier in terms of code)
-
-#### ❓How does the Official Way work?
-- 🔰 In the official Riibalanced Mod codes are loaded using the *main.dol* file. This is because if Cheaters try to load external Cheat Codes from Dolphin the game will lose every RiiBalanced feature, losing access to Wiimmfi and Riibalanced's Wiimmfi Region. (This is because in Riibalanced the Custom Region is loaded in the main.dol, not te StaticR.rel)
 
 ### 🍀What you will need (Official Way):
 

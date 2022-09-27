@@ -17,6 +17,9 @@
 - 🌸The "Official" Way (AKA How it was done in the Official Modpack by Me)
 - 🏵 And the "Dirty" Way (AKA an easier way, just messier in terms of code)
 
+#### ❓How does the Official Way work?
+- 🔰 In the official Riibalanced Mod codes are loaded using the *main.dol* file. This is because if Cheaters try to load external Cheat Codes from Dolphin the game will lose every RiiBalanced feature, losing access to Wiimmfi and Riibalanced's Wiimmfi Region. (This is because in Riibalanced the Custom Region is loaded in the main.dol, not te StaticR.rel)
+
 ### 🍀What you will need (Official Way):
 
 - 🍁Common Sense

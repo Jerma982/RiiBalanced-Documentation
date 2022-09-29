@@ -12,7 +12,10 @@
 
 # How does this mod work?
 
-work in progress
+####🛑How do the Folders work?
+- 💥 /Riibalanced/Core. This folder contains all the most useful files for RiiBalanced, including the main.dol that contains most of the Codes used in the mod. The letter after "main" is used to identify the region, for example, MainJ.dol is used when you load the game on a Japanese ROM. 
+- The StaticR.rel DOESN'T contain a Wiimmfi patch, as that is loaded in the main.dol. Just like the main.dol, these files have a final letter to identify their region. This file contains the custom point system, an anti-cheat that makes the custom common.szs file name modifications work.
+- The common.szs contains the vehicle and character stats of RiiBalanced. the driverParam.bin and kartParam.bin were renamed for Security reasons which i may not reveal to prevent cheating. 
 
 #### ❓How does the Official Way work?
 - 🔰 In the official Riibalanced Mod codes are loaded using the *main.dol* file. This is because if Cheaters try to load external Cheat Codes from Dolphin the game will lose every RiiBalanced feature, losing access to Wiimmfi and Riibalanced's Wiimmfi Region. (This is because in Riibalanced the Custom Region is loaded in the main.dol, not te StaticR.rel)
